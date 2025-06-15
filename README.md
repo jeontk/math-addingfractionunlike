@@ -34,6 +34,10 @@ You can try the app here (after setting up GitHub Pages):
 
 This tool can be used in classrooms, tutoring sessions, or at home to reinforce fraction concepts. It’s particularly helpful for visual learners and students who need step-by-step breakdowns.
 
+## 📱 iOS LCD Practice App
+
+The folder `FractionLCDPracticeApp` contains a minimal SwiftUI application focused on practicing the least common denominator step. Open the folder in **Xcode** and run the app on an iPhone or simulator. Enter two denominators and tap **Find LCD** to see the result and repeat as needed.
+
 ---
 
 ### 📬 Contributions
