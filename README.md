@@ -43,6 +43,24 @@ Feel free to fork the repo and suggest improvements or new features like:
 - Visual fraction bars
 - Practice quizzes
 
+## 🤖 Llama Chatbot Interface
+
+The repository includes `chatbot_app.py`, a small Flask application that provides
+a graphical interface for a locally installed Llama model. To use it:
+
+1. Install dependencies: `pip install flask transformers torch`.
+2. Download your Llama weights and set the environment variable
+   `LLAMA_MODEL_PATH` to that directory.
+3. Run `python chatbot_app.py` and open `http://localhost:5000` in a browser.
+4. From the chat page you can upload text files that may be useful for answering
+   questions.
+
+## 📊 Student Dashboard
+
+`dashboard.html` offers example learning activities to help students memorize
+terms, build concepts, and practice procedures. Access it directly or via the
+link at the bottom of `index.html`.
+
 ---
 
 ## License
